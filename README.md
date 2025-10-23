@@ -8,19 +8,19 @@ The goal is to demonstrate how a computer model can learn patterns from brainwav
 
 ---
 
-## **Purpose**
+## **Purpose:**
 The purpose of this project is to explore how artificial intelligence can interpret EEG data for emotion recognition.  
 It also helps understand the connection between neuroscience and machine learning.
 
 ---
 
-## **Why I Did This**
+## **Why I Did This:**
 I wanted to learn how brain-computer interfaces work and how machines can understand human brain signals.  
 This project helped me practice working with real EEG data, build a machine learning model, and visualize the results.
 
 ---
 
-## **How It Works**
+## **How It Works:**
 1. **Load Data:** Real EEG brainwave data is used from a public dataset.  
 2. **Clean Data:** Missing values are removed to prepare clean data for training.  
 3. **Train Model:** A **Random Forest Classifier** is used to learn emotional patterns.  
