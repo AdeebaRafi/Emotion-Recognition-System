@@ -60,7 +60,7 @@ It also showed which EEG signal patterns had the biggest influence on the predic
 
 ---
 
-## **Dataset**
+## **Dataset:**
 **Name:** EEG Brainwave Dataset: Feeling Emotions  
 **Source:** Available publicly on Kaggle  
 
