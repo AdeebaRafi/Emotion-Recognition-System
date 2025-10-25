@@ -44,7 +44,7 @@ It also showed which EEG signal patterns had the biggest influence on the predic
 
 ---
 
-## **What I Learned**
+## **What I Learned:**
 - How EEG data represents brain activity and emotions  
 - How to process and analyze real-world data  
 - How Random Forest models make predictions  
@@ -52,7 +52,7 @@ It also showed which EEG signal patterns had the biggest influence on the predic
 
 ---
 
-## **How to Run**
+## **How to Run:**
 1. Open the notebook in **Google Colab**.  
 2. Upload the EEG dataset file (`data.csv`) from the **EEG Brainwave Dataset: Feeling Emotions** on Kaggle.  
 3. Run each code cell step by step.  
@@ -66,7 +66,7 @@ It also showed which EEG signal patterns had the biggest influence on the predic
 
 ---
 
-## **Summary**
+## **Summary:**
 This project shows how brainwave data can be used to identify emotional states using machine learning.  
 It is a simple example of how computers can interpret human emotions from EEG data.
 
