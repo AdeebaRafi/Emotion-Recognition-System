@@ -1,6 +1,6 @@
 # **Emotion Recognition from EEG Signals**
 
-## **Overview**
+## **Overview:**
 This project shows how brain signals can be used to recognize human emotions using machine learning.  
 It uses EEG (electroencephalogram) data to predict whether a person is feeling **Positive**, **Neutral**, or **Negative**.  
 
