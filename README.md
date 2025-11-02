@@ -5,7 +5,6 @@ This project shows how brain signals can be used to recognize human emotions usi
 It uses EEG (electroencephalogram) data to predict whether a person is feeling **Positive**, **Neutral**, or **Negative**.  
 
 The goal is to demonstrate how a computer model can learn patterns from brainwave signals and link them to emotional states.
-
 ---
 
 ## **Purpose:**
