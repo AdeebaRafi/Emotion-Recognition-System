@@ -1,4 +1,4 @@
-# **Emotion Recognition from EEG Signals**
+# **Emotion Recognition from EEG Signals:**
 
 ## **Overview:**
 This project shows how brain signals can be used to recognize human emotions using machine learning.  
