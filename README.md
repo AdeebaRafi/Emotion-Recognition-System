@@ -28,7 +28,7 @@ This project helped me practice working with real EEG data, build a machine lear
 
 ---
 
-## **Tools Used**
+## **Tools Used:**
 - Python  
 - Google Colab  
 - Pandas  
@@ -37,7 +37,7 @@ This project helped me practice working with real EEG data, build a machine lear
 
 ---
 
-## **Results**
+## **Results:**
 The model achieved about **96.8 percent accuracy**, which means it correctly predicted emotions in almost all test cases.  
 It also showed which EEG signal patterns had the biggest influence on the predictions.
 
@@ -71,7 +71,7 @@ It is a simple example of how computers can interpret human emotions from EEG da
 
 ---
 
-## **Future Improvements**
+## **Future Improvements:**
 - Add real-time emotion detection using live EEG signals  
 - Create a visual interface to display predicted emotions  
 - Experiment with deep learning models for higher accuracy  
